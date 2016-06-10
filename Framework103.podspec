@@ -10,7 +10,7 @@ s.license           = {
 :file => 'LICENSE'
 }
 s.author            = {
-'Deepika' => 'deepikayadav0802@gmail.com'
+'Saurabh' => 'saurabhliita007@gmail.com'
 }
 s.source            = {
 :git => 'https://github.com/saurabhliita007/Framework103.git',
